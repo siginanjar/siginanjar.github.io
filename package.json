@@ -1,0 +1,14 @@
+{
+  "name": "my-ux-project",
+  "version": "0.0.1",
+  "dependencies": {
+    "grunt": "latest",
+    "grunt-contrib-concat": "latest",
+    "grunt-contrib-uglify": "latest",
+    "grunt-contrib-less": "latest",
+    "grunt-contrib-watch": "latest"
+  },
+  "devDependencies": {
+    "grunt-contrib-watch": "^0.6.1"
+  }
+}
